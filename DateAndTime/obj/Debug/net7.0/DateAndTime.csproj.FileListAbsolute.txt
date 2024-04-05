@@ -1,0 +1,15 @@
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.csproj.AssemblyReference.cache
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.AssemblyInfoInputs.cache
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.AssemblyInfo.cs
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.exe
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.deps.json
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.runtimeconfig.json
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.dll
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\bin\Debug\net7.0\DateAndTime.pdb
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.dll
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\refint\DateAndTime.dll
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.pdb
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\DateAndTime.genruntimeconfig.cache
+C:\Users\RahulRengaraj\OneDrive - Syncfusion\Desktop\Assignment\DateAndTime\obj\Debug\net7.0\ref\DateAndTime.dll
